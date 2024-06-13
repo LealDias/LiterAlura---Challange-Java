@@ -1,0 +1,14 @@
+C:\Users\Diego Leal\Desktop\ORACLE ONE\Desafio - LiterAlura\src\main\java\com\alura\literalura\AppConfig.java
+C:\Users\Diego Leal\Desktop\ORACLE ONE\Desafio - LiterAlura\src\main\java\com\alura\literalura\controller\MenuController.java
+C:\Users\Diego Leal\Desktop\ORACLE ONE\Desafio - LiterAlura\src\main\java\com\alura\literalura\exception\CustomException.java
+C:\Users\Diego Leal\Desktop\ORACLE ONE\Desafio - LiterAlura\src\main\java\com\alura\literalura\exception\GlobalExceptionHandler.java
+C:\Users\Diego Leal\Desktop\ORACLE ONE\Desafio - LiterAlura\src\main\java\com\alura\literalura\LiteraluraApplication.java
+C:\Users\Diego Leal\Desktop\ORACLE ONE\Desafio - LiterAlura\src\main\java\com\alura\literalura\model\Author.java
+C:\Users\Diego Leal\Desktop\ORACLE ONE\Desafio - LiterAlura\src\main\java\com\alura\literalura\model\Book.java
+C:\Users\Diego Leal\Desktop\ORACLE ONE\Desafio - LiterAlura\src\main\java\com\alura\literalura\repository\AuthorRepository.java
+C:\Users\Diego Leal\Desktop\ORACLE ONE\Desafio - LiterAlura\src\main\java\com\alura\literalura\repository\BookRepository.java
+C:\Users\Diego Leal\Desktop\ORACLE ONE\Desafio - LiterAlura\src\main\java\com\alura\literalura\service\BookService.java
+C:\Users\Diego Leal\Desktop\ORACLE ONE\Desafio - LiterAlura\src\main\java\com\alura\literalura\service\GutendexApiService.java
+C:\Users\Diego Leal\Desktop\ORACLE ONE\Desafio - LiterAlura\src\main\java\com\alura\literalura\service\GutendexAuthor.java
+C:\Users\Diego Leal\Desktop\ORACLE ONE\Desafio - LiterAlura\src\main\java\com\alura\literalura\service\GutendexBook.java
+C:\Users\Diego Leal\Desktop\ORACLE ONE\Desafio - LiterAlura\src\main\java\com\alura\literalura\service\GutendexResponse.java
